@@ -9,4 +9,4 @@
 3. Run `npm run dev`
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Deployed on Vercel
+### [Live Demo](https://next-carousel-brown.vercel.app/)
